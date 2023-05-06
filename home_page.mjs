@@ -10,9 +10,6 @@ export function home_page(req, res) {
 </head>
 <body>
 <h3>部署成功</h3>
-<p>
-    请在 <a href="https://github.com/zhuweiyou/chatgpt-api">zhuweiyou/chatgpt-api</a> 查看使用文档
-</p>
 </body>
 </html>
     `)
