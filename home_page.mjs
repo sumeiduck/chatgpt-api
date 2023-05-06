@@ -6,10 +6,10 @@ export function home_page(req, res) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
-    <title>zhuweiyou/chatgpt-api</title>
+    <title>UnofficialAPI</title>
 </head>
 <body>
-<h3>部署成功</h3>
+<h3>UnofficialAPI部署成功</h3>
 </body>
 </html>
     `)
